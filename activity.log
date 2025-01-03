@@ -69,3 +69,4 @@
 2025-01-02 update database schema [44]
 2025-01-03 update API keys [1]
 2025-01-03 update configs [2]
+2025-01-03 patch memory leak [3]
