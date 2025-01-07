@@ -204,3 +204,4 @@
 2025-01-07 fix crash issue [4]
 2025-01-07 update configs for prod [5]
 2025-01-07 cleanup dependencies [6]
+2025-01-07 adjust error messages [7]
