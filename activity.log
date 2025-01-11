@@ -362,3 +362,4 @@
 2025-01-10 improve UX [35]
 2025-01-11 fix timezone issue [1]
 2025-01-11 fix type error [2]
+2025-01-11 add integration tests [3]
