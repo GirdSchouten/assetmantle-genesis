@@ -409,3 +409,4 @@
 2025-01-11 update gitignore [47]
 2025-01-11 reorganize files [48]
 2025-01-11 better error handling [49]
+2025-01-11 remove debug output [50]
