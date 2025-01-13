@@ -469,3 +469,4 @@
 2025-01-13 better error handling [31]
 2025-01-13 fix build error [32]
 2025-01-13 add unit tests [33]
+2025-01-13 improve logging format [34]
