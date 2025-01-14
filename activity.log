@@ -481,3 +481,4 @@
 2025-01-13 fix permission issue [43]
 2025-01-13 fix typo in docs [44]
 2025-01-13 fix misconfiguration [45]
+2025-01-14 patch memory leak [1]
