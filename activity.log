@@ -548,3 +548,4 @@
 2025-01-16 add TODOs [4]
 2025-01-16 improve logging format [5]
 2025-01-16 fix permission issue [6]
+2025-01-16 fix docker build [7]
