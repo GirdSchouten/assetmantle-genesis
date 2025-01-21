@@ -712,3 +712,4 @@
 2025-01-21 restructure project [4]
 2025-01-21 remove deprecated code [5]
 2025-01-21 merge branch [6]
+2025-01-21 fix docker build [7]
