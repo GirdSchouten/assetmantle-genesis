@@ -761,3 +761,4 @@
 2025-01-22 fix misconfiguration [4]
 2025-01-22 update configs [5]
 2025-01-22 simplify logic [6]
+2025-01-22 better error handling [7]
