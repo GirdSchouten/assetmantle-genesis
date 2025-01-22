@@ -778,3 +778,4 @@
 2025-01-22 fix permission issue [21]
 2025-01-22 upgrade dependencies [22]
 2025-01-22 update gitignore [23]
+2025-01-22 stabilize build [24]
