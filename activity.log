@@ -827,3 +827,4 @@
 2025-01-25 fix CI errors [3]
 2025-01-25 update configs for prod [4]
 2025-01-25 fix docker build [5]
+2025-01-25 enhance logging [6]
