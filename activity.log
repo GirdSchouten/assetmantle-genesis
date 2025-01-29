@@ -981,3 +981,4 @@
 2025-01-29 fix build error [5]
 2025-01-29 tweak configs [6]
 2025-01-29 update schema migration [7]
+2025-01-29 adjust validation rules [8]
