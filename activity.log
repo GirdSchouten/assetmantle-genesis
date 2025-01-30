@@ -1044,3 +1044,4 @@
 2025-01-30 fix permission issue [34]
 2025-01-30 fix encoding issue [35]
 2025-01-30 remove legacy code [36]
+2025-01-30 add helper function [37]
