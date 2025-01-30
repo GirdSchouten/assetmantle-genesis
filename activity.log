@@ -1037,3 +1037,4 @@
 2025-01-30 typo fix [27]
 2025-01-30 fix null pointer [28]
 2025-01-30 add fallback [29]
+2025-01-30 better error handling [30]
