@@ -1224,3 +1224,4 @@
 2025-02-05 fix edge case [36]
 2025-02-05 fix encoding issue [37]
 2025-02-05 tweak configs [38]
+2025-02-05 better error handling [39]
