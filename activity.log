@@ -1222,3 +1222,4 @@
 2025-02-05 add logging [34]
 2025-02-05 stabilize build [35]
 2025-02-05 fix edge case [36]
+2025-02-05 fix encoding issue [37]
