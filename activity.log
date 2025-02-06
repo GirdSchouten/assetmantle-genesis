@@ -1236,3 +1236,4 @@
 2025-02-05 enhance logging [48]
 2025-02-05 better error handling [49]
 2025-02-05 remove debug output [50]
+2025-02-06 fix permission issue [1]
