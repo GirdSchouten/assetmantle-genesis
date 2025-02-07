@@ -1262,3 +1262,4 @@
 2025-02-06 update constants [24]
 2025-02-06 cleanup dependencies [25]
 2025-02-07 fix UI alignment [1]
+2025-02-07 better error handling [2]
