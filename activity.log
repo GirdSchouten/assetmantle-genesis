@@ -1391,3 +1391,4 @@
 2025-02-10 update metadata [16]
 2025-02-10 improve caching [17]
 2025-02-10 tweak configs [18]
+2025-02-10 fix null pointer [19]
