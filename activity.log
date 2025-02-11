@@ -1424,3 +1424,4 @@
 2025-02-11 small refactor [1]
 2025-02-11 adjust error messages [2]
 2025-02-11 update schema migration [3]
+2025-02-11 fix compatibility [4]
