@@ -1426,3 +1426,4 @@
 2025-02-11 update schema migration [3]
 2025-02-11 fix compatibility [4]
 2025-02-11 reduce complexity [5]
+2025-02-11 update configs for prod [6]
