@@ -1591,3 +1591,4 @@
 2025-02-16 upgrade dependencies [18]
 2025-02-16 patch memory leak [19]
 2025-02-16 add changelog [20]
+2025-02-16 add integration tests [21]
