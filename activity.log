@@ -1619,3 +1619,4 @@
 2025-02-16 fix docker build [46]
 2025-02-16 fix null pointer [47]
 2025-02-17 fix async issue [1]
+2025-02-17 add logging [2]
