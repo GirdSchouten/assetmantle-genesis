@@ -1724,3 +1724,4 @@
 2025-02-19 update deployment script [29]
 2025-02-19 update gitignore [30]
 2025-02-20 fix encoding issue [1]
+2025-02-20 fix CI errors [2]
