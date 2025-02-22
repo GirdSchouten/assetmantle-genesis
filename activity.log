@@ -1826,3 +1826,4 @@
 2025-02-22 fix async issue [22]
 2025-02-22 update database schema [23]
 2025-02-22 fix typo in docs [24]
+2025-02-22 simplify logic [25]
