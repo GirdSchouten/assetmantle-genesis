@@ -1926,3 +1926,4 @@
 2025-02-25 optimize function [9]
 2025-02-25 fix misconfiguration [10]
 2025-02-25 fix config bug [11]
+2025-02-25 better error handling [12]
