@@ -2012,3 +2012,4 @@
 2025-02-27 fix UI alignment [39]
 2025-02-27 improve logging format [40]
 2025-02-27 fix typo in docs [41]
+2025-02-27 fix config bug [42]
