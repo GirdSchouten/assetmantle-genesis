@@ -2192,3 +2192,4 @@
 2025-03-04 improve logging format [37]
 2025-03-04 fix timezone issue [38]
 2025-03-04 fix warnings [39]
+2025-03-04 fix crash issue [40]
