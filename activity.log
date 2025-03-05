@@ -2203,3 +2203,4 @@
 2025-03-05 fix type error [2]
 2025-03-05 fix timezone issue [3]
 2025-03-05 change configuration [4]
+2025-03-05 better error handling [5]
