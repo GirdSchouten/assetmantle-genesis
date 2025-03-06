@@ -2232,3 +2232,4 @@
 2025-03-06 add helper function [9]
 2025-03-06 update database schema [10]
 2025-03-06 improve logging format [11]
+2025-03-06 fix misconfiguration [12]
