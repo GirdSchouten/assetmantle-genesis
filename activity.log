@@ -2271,3 +2271,4 @@
 2025-03-07 update roadmap [11]
 2025-03-07 cleanup dependencies [12]
 2025-03-07 remove unused import [13]
+2025-03-07 better error handling [14]
