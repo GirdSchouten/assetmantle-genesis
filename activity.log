@@ -2296,3 +2296,4 @@
 2025-03-07 add fallback [36]
 2025-03-07 fix warnings [37]
 2025-03-07 improve logging format [38]
+2025-03-07 better error handling [39]
