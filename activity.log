@@ -2426,3 +2426,4 @@
 2025-03-10 fix async issue [33]
 2025-03-10 stabilize build [34]
 2025-03-10 fix typo in docs [35]
+2025-03-11 add fallback [1]
