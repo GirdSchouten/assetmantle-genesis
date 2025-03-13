@@ -2504,3 +2504,4 @@
 2025-03-13 update gitignore [2]
 2025-03-13 enhance logging [3]
 2025-03-13 fix null pointer [4]
+2025-03-13 fix encoding issue [5]
