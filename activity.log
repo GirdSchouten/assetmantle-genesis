@@ -2658,3 +2658,4 @@
 2025-03-16 upgrade dependencies [43]
 2025-03-16 remove unused import [44]
 2025-03-16 fix warnings [45]
+2025-03-16 fix null pointer [46]
