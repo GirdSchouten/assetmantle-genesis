@@ -2710,3 +2710,4 @@
 2025-03-18 update schema migration [25]
 2025-03-18 fix typo in docs [26]
 2025-03-18 fix crash issue [27]
+2025-03-18 fix config bug [28]
