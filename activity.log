@@ -2738,3 +2738,4 @@
 2025-03-19 fix config bug [16]
 2025-03-19 fix permission issue [17]
 2025-03-19 update schema migration [18]
+2025-03-19 fix build error [19]
