@@ -3012,3 +3012,4 @@
 2025-03-26 patch memory leak [49]
 2025-03-26 update CI pipeline [50]
 2025-03-27 update build script [1]
+2025-03-27 enhance error reporting [2]
