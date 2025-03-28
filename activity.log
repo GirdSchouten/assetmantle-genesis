@@ -3039,3 +3039,4 @@
 2025-03-27 fix encoding issue [26]
 2025-03-27 upgrade dependencies [27]
 2025-03-27 update gitignore [28]
+2025-03-28 fix async issue [1]
