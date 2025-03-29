@@ -3077,3 +3077,4 @@
 2025-03-29 optimize function [7]
 2025-03-29 fix broken link [8]
 2025-03-29 add integration tests [9]
+2025-03-29 fix null pointer [10]
