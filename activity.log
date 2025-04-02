@@ -3177,3 +3177,4 @@
 2025-04-01 fix CI errors [36]
 2025-04-01 patch memory leak [37]
 2025-04-02 upgrade dependencies [1]
+2025-04-02 stabilize build [2]
