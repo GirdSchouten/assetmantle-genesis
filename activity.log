@@ -3352,3 +3352,4 @@
 2025-04-05 fix CI errors [36]
 2025-04-05 improve security [37]
 2025-04-05 update configs for prod [38]
+2025-04-05 improve logging format [39]
