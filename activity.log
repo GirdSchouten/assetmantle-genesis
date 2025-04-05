@@ -3343,3 +3343,4 @@
 2025-04-05 update version [27]
 2025-04-05 add tests [28]
 2025-04-05 clean project structure [29]
+2025-04-05 fix docker build [30]
