@@ -3375,3 +3375,4 @@
 2025-04-06 remove debug output [19]
 2025-04-06 typo fix [20]
 2025-04-06 fix encoding issue [21]
+2025-04-06 add integration tests [22]
