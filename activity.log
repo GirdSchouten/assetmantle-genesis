@@ -3478,3 +3478,4 @@
 2025-04-08 fix encoding issue [25]
 2025-04-08 update gitignore [26]
 2025-04-08 improve UX [27]
+2025-04-08 remove debug output [28]
