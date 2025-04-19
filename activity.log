@@ -3868,3 +3868,4 @@
 2025-04-19 cleanup dependencies [31]
 2025-04-19 fix config bug [32]
 2025-04-19 update gitignore [33]
+2025-04-19 remove legacy code [34]
