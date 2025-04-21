@@ -3917,3 +3917,4 @@
 2025-04-20 fix warnings [35]
 2025-04-21 patch memory leak [1]
 2025-04-21 reformat code [2]
+2025-04-21 remove legacy code [3]
