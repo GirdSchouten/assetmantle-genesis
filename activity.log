@@ -4086,3 +4086,4 @@
 2025-04-25 adjust validation rules [3]
 2025-04-25 update roadmap [4]
 2025-04-25 fix config bug [5]
+2025-04-25 patch memory leak [6]
