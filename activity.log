@@ -4141,3 +4141,4 @@
 2025-04-26 add unit tests [22]
 2025-04-26 add fallback [23]
 2025-04-26 add tests [24]
+2025-04-26 better error handling [25]
