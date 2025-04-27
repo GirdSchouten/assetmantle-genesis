@@ -4160,3 +4160,4 @@
 2025-04-27 remove deprecated code [6]
 2025-04-27 restructure modules [7]
 2025-04-27 update configs for prod [8]
+2025-04-27 better error handling [9]
