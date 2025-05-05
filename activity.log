@@ -4420,3 +4420,4 @@
 2025-05-05 add integration tests [10]
 2025-05-05 fix typo in code [11]
 2025-05-05 update gitignore [12]
+2025-05-05 better error handling [13]
