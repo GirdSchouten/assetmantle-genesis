@@ -4443,3 +4443,4 @@
 2025-05-05 add sample data [33]
 2025-05-05 fix config bug [34]
 2025-05-06 better error handling [1]
+2025-05-06 fix misconfiguration [2]
