@@ -4567,3 +4567,4 @@
 2025-05-10 add helper function [1]
 2025-05-10 update version [2]
 2025-05-10 fix warnings [3]
+2025-05-10 better error handling [4]
