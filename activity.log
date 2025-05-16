@@ -4792,3 +4792,4 @@
 2025-05-16 fix docker build [13]
 2025-05-16 restructure project [14]
 2025-05-16 cleanup dependencies [15]
+2025-05-16 add helper function [16]
