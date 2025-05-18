@@ -4876,3 +4876,4 @@
 2025-05-18 better error handling [21]
 2025-05-18 fix UI alignment [22]
 2025-05-18 fix timezone issue [23]
+2025-05-18 fix config bug [24]
