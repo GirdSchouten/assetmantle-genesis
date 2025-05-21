@@ -5000,3 +5000,4 @@
 2025-05-21 remove test code [15]
 2025-05-21 update schema migration [16]
 2025-05-21 fix timezone issue [17]
+2025-05-21 enhance error reporting [18]
