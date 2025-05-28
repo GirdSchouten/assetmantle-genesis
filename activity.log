@@ -5231,3 +5231,4 @@
 2025-05-28 update deployment script [1]
 2025-05-28 tweak configs [2]
 2025-05-28 adjust error messages [3]
+2025-05-28 fix null pointer [4]
