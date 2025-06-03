@@ -5406,3 +5406,4 @@
 2025-06-02 improve caching [40]
 2025-06-02 update README [41]
 2025-06-03 remove unused import [1]
+2025-06-03 fix null pointer [2]
