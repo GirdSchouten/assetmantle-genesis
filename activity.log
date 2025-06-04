@@ -5454,3 +5454,4 @@
 2025-06-04 rebuild project [1]
 2025-06-04 fix edge case [2]
 2025-06-04 remove debug output [3]
+2025-06-04 patch memory leak [4]
