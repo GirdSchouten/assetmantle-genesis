@@ -5640,3 +5640,4 @@
 2025-06-08 adjust validation rules [11]
 2025-06-08 fix timezone issue [12]
 2025-06-08 add helper function [13]
+2025-06-08 fix null pointer [14]
