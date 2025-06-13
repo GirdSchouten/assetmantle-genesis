@@ -5801,3 +5801,4 @@
 2025-06-13 fix config bug [1]
 2025-06-13 update gitignore [2]
 2025-06-13 fix bug [3]
+2025-06-13 better error handling [4]
