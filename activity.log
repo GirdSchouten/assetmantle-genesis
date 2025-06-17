@@ -5962,3 +5962,4 @@
 2025-06-17 remove legacy code [9]
 2025-06-17 update API endpoints [10]
 2025-06-17 add unit tests [11]
+2025-06-17 fix misconfiguration [12]
