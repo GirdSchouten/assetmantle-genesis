@@ -6017,3 +6017,4 @@
 2025-06-18 fix config bug [43]
 2025-06-18 add unit tests [44]
 2025-06-18 cleanup dependencies [45]
+2025-06-18 update build script [46]
