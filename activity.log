@@ -5999,3 +5999,4 @@
 2025-06-18 upgrade dependencies [25]
 2025-06-18 restructure modules [26]
 2025-06-18 update scripts [27]
+2025-06-18 fix async issue [28]
