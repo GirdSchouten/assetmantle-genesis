@@ -6041,3 +6041,4 @@
 2025-06-19 update database schema [21]
 2025-06-19 simplify logic [22]
 2025-06-19 remove debug output [23]
+2025-06-19 better error handling [24]
