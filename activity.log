@@ -6108,3 +6108,4 @@
 2025-06-21 cleanup dependencies [25]
 2025-06-21 fix permission issue [26]
 2025-06-21 update schema migration [27]
+2025-06-21 update build script [28]
