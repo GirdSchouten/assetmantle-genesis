@@ -6107,3 +6107,4 @@
 2025-06-21 fix encoding issue [24]
 2025-06-21 cleanup dependencies [25]
 2025-06-21 fix permission issue [26]
+2025-06-21 update schema migration [27]
