@@ -6115,3 +6115,4 @@
 2025-06-21 update gitignore [32]
 2025-06-21 fix typo in docs [33]
 2025-06-22 fix config bug [1]
+2025-06-22 patch memory leak [2]
