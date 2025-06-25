@@ -6232,3 +6232,4 @@
 2025-06-25 fix broken link [31]
 2025-06-25 update schema migration [32]
 2025-06-25 fix edge case [33]
+2025-06-25 better error handling [34]
