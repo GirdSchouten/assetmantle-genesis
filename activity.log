@@ -6210,3 +6210,4 @@
 2025-06-25 tweak configs [9]
 2025-06-25 fix compatibility [10]
 2025-06-25 fix CI errors [11]
+2025-06-25 better error handling [12]
