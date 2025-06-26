@@ -6241,3 +6241,4 @@
 2025-06-25 add helper function [40]
 2025-06-26 fix async issue [1]
 2025-06-26 improve caching [2]
+2025-06-26 update build script [3]
