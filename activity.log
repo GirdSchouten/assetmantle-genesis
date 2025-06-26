@@ -6244,3 +6244,4 @@
 2025-06-26 update build script [3]
 2025-06-26 tweak configs [4]
 2025-06-26 update logging [5]
+2025-06-26 fix null pointer [6]
