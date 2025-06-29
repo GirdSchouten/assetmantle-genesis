@@ -6362,3 +6362,4 @@
 2025-06-28 tweak configs [34]
 2025-06-29 add helper function [1]
 2025-06-29 update database schema [2]
+2025-06-29 fix build error [3]
