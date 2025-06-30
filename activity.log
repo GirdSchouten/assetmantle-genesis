@@ -6424,3 +6424,4 @@
 2025-06-30 fix typo in code [21]
 2025-06-30 better error handling [22]
 2025-06-30 add helper function [23]
+2025-06-30 adjust error messages [24]
