@@ -6443,3 +6443,4 @@
 2025-06-30 optimize queries [40]
 2025-06-30 improve logging format [41]
 2025-07-01 fix async issue [1]
+2025-07-01 update build script [2]
