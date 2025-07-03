@@ -6523,3 +6523,4 @@
 2025-07-03 optimize queries [35]
 2025-07-03 stabilize build [36]
 2025-07-03 better error handling [37]
+2025-07-03 add helper function [38]
