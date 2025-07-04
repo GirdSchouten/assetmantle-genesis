@@ -6568,3 +6568,4 @@
 2025-07-04 update gitignore [34]
 2025-07-04 improve logging format [35]
 2025-07-04 restructure modules [36]
+2025-07-04 fix build error [37]
