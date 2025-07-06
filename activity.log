@@ -6641,3 +6641,4 @@
 2025-07-06 simplify logic [16]
 2025-07-06 fix compatibility [17]
 2025-07-06 update gitignore [18]
+2025-07-06 better error handling [19]
