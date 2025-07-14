@@ -6934,3 +6934,4 @@
 2025-07-13 cleanup dependencies [29]
 2025-07-13 update linter rules [30]
 2025-07-13 fix misconfiguration [31]
+2025-07-14 fix crash issue [1]
