@@ -6967,3 +6967,4 @@
 2025-07-15 update deployment script [7]
 2025-07-15 fix typo in docs [8]
 2025-07-15 fix misconfiguration [9]
+2025-07-15 patch memory leak [10]
