@@ -7002,3 +7002,4 @@
 2025-07-16 add changelog [22]
 2025-07-16 update API docs [23]
 2025-07-16 small refactor [24]
+2025-07-16 patch memory leak [25]
