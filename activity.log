@@ -7073,3 +7073,4 @@
 2025-07-18 patch vulnerability [19]
 2025-07-18 add integration tests [20]
 2025-07-18 fix CI errors [21]
+2025-07-18 add fallback [22]
