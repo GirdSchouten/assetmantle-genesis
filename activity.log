@@ -7229,3 +7229,4 @@
 2025-07-23 update configs for prod [13]
 2025-07-23 fix compatibility [14]
 2025-07-23 update schema migration [15]
+2025-07-23 fix crash issue [16]
