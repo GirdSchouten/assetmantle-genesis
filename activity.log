@@ -7388,3 +7388,4 @@
 2025-07-28 adjust validation rules [3]
 2025-07-28 update LICENSE [4]
 2025-07-28 remove unused import [5]
+2025-07-28 better error handling [6]
