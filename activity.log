@@ -7598,3 +7598,4 @@
 2025-08-04 update API keys [2]
 2025-08-04 add helper function [3]
 2025-08-04 improve security [4]
+2025-08-04 fix docker build [5]
