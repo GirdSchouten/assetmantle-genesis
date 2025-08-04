@@ -7609,3 +7609,4 @@
 2025-08-04 update build script [13]
 2025-08-04 fix async issue [14]
 2025-08-04 add logging [15]
+2025-08-04 add integration tests [16]
