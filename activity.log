@@ -7656,3 +7656,4 @@
 2025-08-05 adjust validation rules [22]
 2025-08-05 patch memory leak [23]
 2025-08-05 fix misconfiguration [24]
+2025-08-05 fix crash issue [25]
