@@ -7710,3 +7710,4 @@
 2025-08-06 update build script [39]
 2025-08-06 add example file [40]
 2025-08-07 small refactor [1]
+2025-08-07 fix null pointer [2]
