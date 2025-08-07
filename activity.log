@@ -7732,3 +7732,4 @@
 2025-08-07 fix async issue [21]
 2025-08-07 update schema migration [22]
 2025-08-07 security patch [23]
+2025-08-07 fix config bug [24]
