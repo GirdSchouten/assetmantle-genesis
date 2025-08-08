@@ -7760,3 +7760,4 @@
 2025-08-08 fix UI alignment [17]
 2025-08-08 reduce complexity [18]
 2025-08-08 simplify logic [19]
+2025-08-08 fix null pointer [20]
