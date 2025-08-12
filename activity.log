@@ -7891,3 +7891,4 @@
 2025-08-12 minor tweaks [28]
 2025-08-12 adjust validation rules [29]
 2025-08-12 add unit tests [30]
+2025-08-12 fix null pointer [31]
