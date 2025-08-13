@@ -7927,3 +7927,4 @@
 2025-08-13 update docs with examples [20]
 2025-08-13 remove legacy code [21]
 2025-08-13 rollback changes [22]
+2025-08-13 improve logging format [23]
