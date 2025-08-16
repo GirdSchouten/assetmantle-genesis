@@ -8032,3 +8032,4 @@
 2025-08-15 reorganize files [48]
 2025-08-16 tweak configs [1]
 2025-08-16 rollback changes [2]
+2025-08-16 fix null pointer [3]
