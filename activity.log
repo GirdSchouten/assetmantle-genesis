@@ -8084,3 +8084,4 @@
 2025-08-17 adjust validation rules [23]
 2025-08-17 better error handling [24]
 2025-08-18 improve logging format [1]
+2025-08-18 update schema migration [2]
