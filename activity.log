@@ -8151,3 +8151,4 @@
 2025-08-19 update constants [32]
 2025-08-19 update API docs [33]
 2025-08-19 update schema migration [34]
+2025-08-19 fix edge case [35]
