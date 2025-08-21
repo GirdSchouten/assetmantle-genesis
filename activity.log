@@ -8193,3 +8193,4 @@
 2025-08-21 fix docker build [1]
 2025-08-21 fix crash issue [2]
 2025-08-21 update deployment script [3]
+2025-08-21 fix encoding issue [4]
