@@ -8495,3 +8495,4 @@
 2025-08-29 clean project structure [22]
 2025-08-29 improve logging format [23]
 2025-08-29 add unit tests [24]
+2025-08-29 fix async issue [25]
