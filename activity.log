@@ -8555,3 +8555,4 @@
 2025-09-01 add tests [3]
 2025-09-01 update schema migration [4]
 2025-09-01 patch vulnerability [5]
+2025-09-01 fix permission issue [6]
