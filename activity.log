@@ -8691,3 +8691,4 @@
 2025-09-04 hotfix applied [37]
 2025-09-04 update schema migration [38]
 2025-09-04 update configs for prod [39]
+2025-09-04 fix docker build [40]
