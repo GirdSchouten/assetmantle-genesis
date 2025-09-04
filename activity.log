@@ -8652,3 +8652,4 @@
 2025-09-03 stabilize build [31]
 2025-09-03 update dependencies [32]
 2025-09-03 update deployment script [33]
+2025-09-04 fix null pointer [1]
