@@ -8713,3 +8713,4 @@
 2025-09-05 fix crash issue [9]
 2025-09-05 temporary fix [10]
 2025-09-05 update schema migration [11]
+2025-09-05 fix null pointer [12]
