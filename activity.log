@@ -8730,3 +8730,4 @@
 2025-09-05 small refactor [26]
 2025-09-05 remove deprecated code [27]
 2025-09-05 upgrade dependencies [28]
+2025-09-05 fix config bug [29]
