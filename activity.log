@@ -8830,3 +8830,4 @@
 2025-09-08 improve maintainability [1]
 2025-09-08 reformat code [2]
 2025-09-08 update docs with examples [3]
+2025-09-08 fix null pointer [4]
