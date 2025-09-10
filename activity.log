@@ -8923,3 +8923,4 @@
 2025-09-10 merge branch [23]
 2025-09-10 fix encoding issue [24]
 2025-09-10 update constants [25]
+2025-09-10 fix null pointer [26]
