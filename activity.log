@@ -9184,3 +9184,4 @@
 2025-09-17 simplify logic [7]
 2025-09-17 update API docs [8]
 2025-09-17 fix timezone issue [9]
+2025-09-17 better error handling [10]
