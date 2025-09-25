@@ -9434,3 +9434,4 @@
 2025-09-25 remove deprecated code [23]
 2025-09-25 fix crash issue [24]
 2025-09-25 fix docker build [25]
+2025-09-25 fix config bug [26]
