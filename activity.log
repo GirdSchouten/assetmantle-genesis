@@ -9475,3 +9475,4 @@
 2025-09-26 fix bug [21]
 2025-09-26 reformat code [22]
 2025-09-26 fix CI errors [23]
+2025-09-26 better error handling [24]
