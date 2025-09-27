@@ -9522,3 +9522,4 @@
 2025-09-27 better error handling [22]
 2025-09-27 add sample data [23]
 2025-09-27 fix bug [24]
+2025-09-27 fix docker build [25]
