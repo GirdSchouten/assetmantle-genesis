@@ -9531,3 +9531,4 @@
 2025-09-27 remove debug output [31]
 2025-09-27 add integration tests [32]
 2025-09-27 remove unused import [33]
+2025-09-27 fix encoding issue [34]
