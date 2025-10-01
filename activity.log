@@ -9642,3 +9642,4 @@
 2025-10-01 improve performance [11]
 2025-10-01 add changelog [12]
 2025-10-01 update constants [13]
+2025-10-01 patch memory leak [14]
