@@ -9909,3 +9909,4 @@
 2025-10-09 fix docker build [2]
 2025-10-09 simplify logic [3]
 2025-10-09 enhance logging [4]
+2025-10-09 stabilize build [5]
