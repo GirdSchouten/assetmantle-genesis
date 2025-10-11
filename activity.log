@@ -9968,3 +9968,4 @@
 2025-10-11 better error handling [6]
 2025-10-11 update constants [7]
 2025-10-11 fix CI errors [8]
+2025-10-11 fix config bug [9]
