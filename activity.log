@@ -9965,3 +9965,4 @@
 2025-10-11 improve caching [3]
 2025-10-11 fix build error [4]
 2025-10-11 update constants [5]
+2025-10-11 better error handling [6]
