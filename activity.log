@@ -10193,3 +10193,4 @@
 2025-10-16 update docs with examples [35]
 2025-10-16 fix type error [36]
 2025-10-16 fix build error [37]
+2025-10-16 fix null pointer [38]
