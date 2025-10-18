@@ -10247,3 +10247,4 @@
 2025-10-17 reformat code [46]
 2025-10-17 remove unused code [47]
 2025-10-18 adjust validation rules [1]
+2025-10-18 patch memory leak [2]
