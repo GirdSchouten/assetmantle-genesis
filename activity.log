@@ -10414,3 +10414,4 @@
 2025-10-22 add integration tests [9]
 2025-10-22 add example file [10]
 2025-10-22 tweak configs [11]
+2025-10-22 fix null pointer [12]
