@@ -10488,3 +10488,4 @@
 2025-10-24 fix CI errors [7]
 2025-10-24 improve performance [8]
 2025-10-24 improve logging format [9]
+2025-10-24 fix null pointer [10]
