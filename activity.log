@@ -10552,3 +10552,4 @@
 2025-10-26 update constants [14]
 2025-10-26 update build script [15]
 2025-10-26 improve logging format [16]
+2025-10-26 patch memory leak [17]
