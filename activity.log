@@ -10547,3 +10547,4 @@
 2025-10-26 update CI pipeline [9]
 2025-10-26 update schema migration [10]
 2025-10-26 update deployment script [11]
+2025-10-26 fix build error [12]
