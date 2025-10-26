@@ -10560,3 +10560,4 @@
 2025-10-26 fix config bug [22]
 2025-10-26 fix encoding issue [23]
 2025-10-26 simplify logic [24]
+2025-10-26 update schema migration [25]
