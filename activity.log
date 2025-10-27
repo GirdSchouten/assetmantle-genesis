@@ -10599,3 +10599,4 @@
 2025-10-27 fix permission issue [28]
 2025-10-27 fix crash issue [29]
 2025-10-27 update schema migration [30]
+2025-10-27 adjust validation rules [31]
