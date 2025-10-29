@@ -10669,3 +10669,4 @@
 2025-10-29 fix warnings [25]
 2025-10-29 fix typo in docs [26]
 2025-10-29 refactor tests [27]
+2025-10-29 better error handling [28]
