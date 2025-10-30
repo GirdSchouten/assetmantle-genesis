@@ -10685,3 +10685,4 @@
 2025-10-30 remove deprecated code [11]
 2025-10-30 update configs for prod [12]
 2025-10-30 better error handling [13]
+2025-10-30 fix async issue [14]
