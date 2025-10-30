@@ -10686,3 +10686,4 @@
 2025-10-30 update configs for prod [12]
 2025-10-30 better error handling [13]
 2025-10-30 fix async issue [14]
+2025-10-30 add tests [15]
