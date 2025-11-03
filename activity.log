@@ -10821,3 +10821,4 @@
 2025-11-03 fix permission issue [20]
 2025-11-03 update dependencies [21]
 2025-11-03 fix warnings [22]
+2025-11-03 add integration tests [23]
