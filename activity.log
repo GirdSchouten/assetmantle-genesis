@@ -10848,3 +10848,4 @@
 2025-11-04 add TODOs [21]
 2025-11-04 update schema migration [22]
 2025-11-04 improve caching [23]
+2025-11-04 better error handling [24]
