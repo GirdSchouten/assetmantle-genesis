@@ -10914,3 +10914,4 @@
 2025-11-06 remove unused code [11]
 2025-11-06 restructure modules [12]
 2025-11-06 improve logging format [13]
+2025-11-06 fix docker build [14]
