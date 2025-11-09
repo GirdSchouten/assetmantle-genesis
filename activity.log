@@ -10992,3 +10992,4 @@
 2025-11-09 improve logging format [17]
 2025-11-09 change configuration [18]
 2025-11-09 update build script [19]
+2025-11-09 fix docker build [20]
