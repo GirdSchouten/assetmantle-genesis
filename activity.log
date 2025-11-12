@@ -11092,3 +11092,4 @@
 2025-11-12 improve logging format [1]
 2025-11-12 add unit tests [2]
 2025-11-12 improve maintainability [3]
+2025-11-12 patch memory leak [4]
