@@ -11413,3 +11413,4 @@
 2025-11-22 remove test code [18]
 2025-11-22 stabilize build [19]
 2025-11-22 update constants [20]
+2025-11-22 better error handling [21]
