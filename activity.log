@@ -11668,3 +11668,4 @@
 2025-11-29 enhance logging [27]
 2025-11-29 fix crash issue [28]
 2025-11-29 cleanup dependencies [29]
+2025-11-29 better error handling [30]
