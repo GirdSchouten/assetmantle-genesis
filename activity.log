@@ -11902,3 +11902,4 @@
 2025-12-05 fix async issue [36]
 2025-12-05 update schema migration [37]
 2025-12-05 improve docs [38]
+2025-12-05 better error handling [39]
