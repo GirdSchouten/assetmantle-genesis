@@ -11975,3 +11975,4 @@
 2025-12-07 cleanup dependencies [35]
 2025-12-07 update LICENSE [36]
 2025-12-07 fix timezone issue [37]
+2025-12-07 remove deprecated code [38]
