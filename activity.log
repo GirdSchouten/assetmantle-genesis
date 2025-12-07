@@ -11961,3 +11961,4 @@
 2025-12-07 update configs for prod [21]
 2025-12-07 experimental changes [22]
 2025-12-07 stabilize build [23]
+2025-12-07 fix null pointer [24]
