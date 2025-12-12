@@ -12152,3 +12152,4 @@
 2025-12-12 update schema migration [15]
 2025-12-12 add example file [16]
 2025-12-12 upgrade dependencies [17]
+2025-12-12 fix crash issue [18]
