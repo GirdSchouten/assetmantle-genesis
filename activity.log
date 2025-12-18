@@ -12344,3 +12344,4 @@
 2025-12-18 fix typo in code [16]
 2025-12-18 fix CI errors [17]
 2025-12-18 improve logging format [18]
+2025-12-18 fix config bug [19]
