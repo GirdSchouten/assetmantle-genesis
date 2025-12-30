@@ -12766,3 +12766,4 @@
 2025-12-30 remove legacy code [14]
 2025-12-30 fix warnings [15]
 2025-12-30 optimize function [16]
+2025-12-30 improve caching [17]
